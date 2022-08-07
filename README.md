@@ -17,10 +17,7 @@
 
 <img align="left" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"  />
 
-<img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"  />
-<img align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"  />
 
-<img align="left" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"  />
 
 ## 🏆Github Profile Trophy
 <img align="left" src="https://github-profile-trophy.vercel.app/?username=CJHydraGenZ&row=2&column=3&column=3&margin-w=15&margin-h=15&theme=onedark&no-frame=true" />
