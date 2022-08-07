@@ -1,5 +1,6 @@
 
 # Hi There, I'm Cahya
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=CJHydraGenZ&show_icons=true&theme=radical" />
 <img align="left" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CJHydraGenZ&layout=compact" />
 
@@ -26,6 +27,10 @@
   
 ### 📊Github Activity
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=CJHydraGenZ&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Profile views](https://gpvc.arturio.dev/CJHydraGenZ)
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
+
+### 🐱‍🏍My Contribution Graph
+![Snake animation](https://github.com/CJHydraGenZ/CJHydraGenZ/blob/output/github-contribution-grid-snake.svg)
+
+![Profile views](https://gpvc.arturio.dev/CJHydraGenZ)
