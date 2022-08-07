@@ -20,3 +20,10 @@
 ### 🏆Github Profile Trophy
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=CJHydraGenZ&row=2&column=3&column=3&margin-w=15&margin-h=15&theme=onedark&no-frame=true" />
   <img align="center" width="44%" src="https://user-images.githubusercontent.com/49280905/183273362-e94d8b6d-f531-4fa1-8df5-aa8819411835.gif" />
+
+### 🔥Github Streak Stats
+  <img  width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=CJHydraGenZ&theme=buefy-dark&hide_border=true" />
+  
+### 📊Github Activity
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=CJHydraGenZ&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Profile views](https://gpvc.arturio.dev/CJHydraGenZ)
