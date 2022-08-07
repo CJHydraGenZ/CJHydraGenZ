@@ -27,3 +27,5 @@
 ### 📊Github Activity
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=CJHydraGenZ&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Profile views](https://gpvc.arturio.dev/CJHydraGenZ)
+
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
